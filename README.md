@@ -30,6 +30,10 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nico-koltermann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--
 **nico-koltermann/nico-koltermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
