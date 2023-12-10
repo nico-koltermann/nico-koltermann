@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Warehouse Optimization with an A* Algorithm and multiple autonomous robots.
+- 🔭 I’m currently working on warehouse optimization with A* algorithm in an autonomous robots environment.
 
-- Also we build an autonomous racecar at @getracing for next summer!
+- 🚗 Also we build an autonomous racecar at @getracing for next summer!
+  - 🏁 Goal is to finish all competitions at the Formula Student Germany Event 2024   
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-koltermann-2a5a02203) 
