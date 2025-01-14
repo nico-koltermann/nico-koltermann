@@ -1,15 +1,18 @@
 ### Hi there 👋
+ 
+My current field of interests are the warehouse optimization with multiple robots and autonomous driving in different scenarios.
 
-- 🔭 I’m currently working on warehouse optimization with A* algorithm in an autonomous robots environment.
-
-- 🚗 Also we build an autonomous racecar at @getracing for next summer!
-  - 🏁 Goal is to finish all competitions at the Formula Student Germany Event 2024   
+- 🔭 Warehouse optimization with A* algorithm in an autonomous robots environment.
+- 🔭 Creating new heuristics for warehouse optimization by LLM prompting methods. 
+- 🚗 We build an autonomous racecar at @getracing and attended at the international Formula Student Germany Event 2024!
+- 🌱 I’m currently learning in the field of computer science in combination with sustanability and AI. (Great Paper for AI: [Link](https://link.springer.com/article/10.1007/s43681-021-00043-6))
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-koltermann-2a5a02203) 
 
 # Robotic:
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ros2-%236e71f5.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
